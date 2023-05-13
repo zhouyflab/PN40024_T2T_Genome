@@ -1,4 +1,4 @@
-PN40024_T2T_Genome <img src="https://github.com/zhouyflab/PN40024_T2T_Genome/blob/main/cover.jpg" align="right" width="35%">
+PN40024_T2T_Genome <img src="https://github.com/zhouyflab/PN40024_T2T_Genome/blob/main/cover.jpg" align="right" width="40%">
 ====================
 
 The complete reference genome for grapevine (Vitis vinifera L.) genetics and breeding
