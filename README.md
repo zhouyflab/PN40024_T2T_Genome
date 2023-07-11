@@ -11,7 +11,7 @@ Keywords: Viticulture, T2T, gap-free, gene cluster, centromere, telomere, inbree
 ### [Genome-Wide-Annotation-Pipeline](https://github.com/unavailable-2374/Genome-Wide-Annotation-Pipeline)
 ### [To find telomeres and centromeres](https://github.com/Immortal2333/Telomeres_and_Centromeres)
 ### [Pan-genome TE Annotation Pipeline](https://github.com/unavailable-2374/TE_Detective-Annotation)
-
+### [Assembles High-diversity Regions](https://github.com/unavailable-2374/Hight_div-assembly)
 ## Data availability
 All PacBio sequence data have been deposited in the NCBI Sequence Read Archive under project number `PRJNA882193` and the National Genomics Data Center (NGDC) Genome Sequence Archive (GSA) (https://ngdc.cncb.ac.cn/gsa/), with BioProject number `PRJCA012093`. The assembly and annotation as well as the sequences of centromeres and heterozygous regions have been deposited in zenodo: https://zenodo.org/record/7751391#.ZBgVmcJBy3A. The assembly and its annotation will be also hosted in the GRAPEDIA portal (https://grapedia.org/).
 
